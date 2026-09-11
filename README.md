@@ -1,9 +1,19 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=FAAAAAA+Jari+Hai;Andheron+se+Raste+Banane+Wala;SQL+Warrior+%7C+Day+11+Done" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/Fonzo-01/sql-practice?color=green" />
+</p>
 ### Hi, I'm Fonzo 👋 
 **On-chain Data Analyst | Dune Analytics | SQL**
 
+> **"Andheron or kantoon se raste banane wala"** 💪
+>
+
 📊 Building crypto analytics dashboards  
-🚀 FAAAAAA mode starts 10 Sep with Dune Plus  
+🚀 FAAAAAA mode on 
+
 📍 Rawalpindi, Pakistan  
 
 **Skills:** SQL, Dune Analytics, Binance Data, Crypto Analytics  

@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/FonzOnChain/sql-practice?color=green&label=commits" />
   <img src="https://img.shields.io/badge/Status-FAAAAAA%20Mode%20ON-brightgreen" />
 </p>
 
@@ -20,9 +19,7 @@
 ## 💼 What I'm Building
 - **30 Days SQL Challenge**: Dune Analytics se Web3 data
 - **GitHub Portfolio**: Daily commits, real queries
-- **Goal**: TO BECOME
-- ONCHAIN-ANALYST
-- Whale tracker dashboards+querys
+- **Goal**: Whale tracker dashboards+querys
 
 ## 🛠️ Tech Stack
 `SQL` `Dune Analytics` `Git` `GitHub` `Data Visualization`
@@ -37,5 +34,5 @@
 
 ## 🤝 Let's Connect!
 - Dune: [link daal dena]
-- Twitter: [link daal dena]
+- Twitter: [link daal dena] 
 - LinkedIn: [link daal dena]
